@@ -1,14 +1,11 @@
-body {
-  margin: 0;
-  padding: 0;
-}
-
 fieldset {
-  display: block;
-  margin: 20px;
+  margin-bottom: 20px;
 }
 
 .form-field {
   display: block;
-  padding: 10px;
+}
+
+.element {
+  margin-bottom: 10px;
 }
